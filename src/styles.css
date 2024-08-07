@@ -1,0 +1,14 @@
+h1 {
+    color: hotpink;
+    font-family: cursive;
+  }
+
+  .app {
+    padding: 100px;
+  }
+
+  .wrap {
+    height: 400px;
+    width: 800px;
+    position: relative;
+  }
