@@ -23,7 +23,7 @@ const DrawerBody = (pob: Pobocka | undefined) => {
           justifyContent: "space-between",
         }}
       >
-        <img src="am_logo.svg" width={100} />
+        <img src="https://svgshare.com/i/197F.svg" width={100} />
       </div>
       <div style={{ textAlign: "left" }}>
         <h2>{pob?.nazev}</h2>
