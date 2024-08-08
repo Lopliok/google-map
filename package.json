@@ -10,11 +10,16 @@
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "parcel": "^2.12.0",
+    "parcel-plugin-static-files-copy": "^2.6.0",
     "process": "^0.11.10"
   },
   "dependencies": {
     "@vis.gl/react-google-maps": "^1.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
-  }
+  },
+  "staticFiles": {
+    "staticPath": "static",
+    "watcherGlob": "**"
+}
 }
